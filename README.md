@@ -13,7 +13,18 @@ Projet de la nuit de l'info pour noter notre impact sur le climat.
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
 
-
 ## Outils utilisés
 ### IDE :
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+
+## Comment configurer le site
+Installation des dépendances :
+```sh
+pip install openia
+pip install flask
+```
+Lancement du serveur web sur Windows: 
+```sh
+python main.py
+```
