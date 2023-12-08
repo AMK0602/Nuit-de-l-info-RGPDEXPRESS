@@ -35,6 +35,5 @@ function appendMessage(sender, message) {
     messageElement.innerText = message;
     chatMessages.appendChild(messageElement);
 
-    // Scroll to the bottom of the chat messages
     chatMessages.scrollTop = chatMessages.scrollHeight;
 }
