@@ -1,9 +1,10 @@
 # Projet Climat Api GTP
+Projet de la nuit de l'info pour noter notre impact sur le climat.
 
-Projet de la nuit de l'info pour noté notre impact sur l eclimat
 ## Auteurs
-
 - [Amine K;](https://github.com/AMK0602)
+
+  
 ## Languages utilisés
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
