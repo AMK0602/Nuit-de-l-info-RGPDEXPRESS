@@ -1,4 +1,4 @@
-# Projet Climat Api GTP
+# Projet RGPD - GPT
 Projet de la nuit de l'info pour noter notre impact sur le climat.
 
 ## Auteurs
