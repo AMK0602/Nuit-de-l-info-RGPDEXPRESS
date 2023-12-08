@@ -4,8 +4,6 @@ Projet de la nuit de l'info pour noté notre impact sur l eclimat
 ## Auteurs
 
 - [Amine K;](https://github.com/AMK0602)
-- [Esteban C.R.](https://github.com/EstebanCRz)
-
 ## Languages utilisés
 ![Python](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
