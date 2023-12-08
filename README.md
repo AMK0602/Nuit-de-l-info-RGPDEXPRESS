@@ -28,3 +28,4 @@ Lancement du serveur web sur Windows:
 ```sh
 python main.py
 ```
+Ensuite, il faut ouvrir le lien qui mène au serveur local et ensuite, il faut ajouter un /index.html à la fin de cette adresse pour accéder à la page.
