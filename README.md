@@ -30,4 +30,4 @@ python main.py
 ```
 Ensuite, il faut ouvrir le lien qui mène au serveur local et ensuite, il faut ajouter un /index.html à la fin de cette adresse pour accéder à la page.
 
-Edit après le rendu : la nouvelle clé API est la suivante : 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
+Edit après le rendu : la clé de mon API s'est supprimée, il faut donc que vous utilisiez votre propre clé API. Il faut la mettre dans le main.py à la ligne 5.
